@@ -26,3 +26,6 @@ Compare the results:
 # Answers
 * Yes, KCF bounding box was can't change his resolution box. TLD always trying search box and sometimes get wrong prediction of object position. CSRT have best bounding box, but not when car gone from view.
 * KCF have good result but with good fps video, with less fps KCF can failure(but work faster than other). Seems like TLD have problem with tracking after car gone from view. As for me CSRT have best result but sometimes can not detect when car gone from view
+
+# Video Link
+* https://www.youtube.com/watch?v=NQGYIbspMzc
